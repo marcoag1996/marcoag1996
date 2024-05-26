@@ -1,16 +1,33 @@
+# Marco Aguilar
+
 ## Hi there 👋
 
-<!--
-**marcoag1996/marcoag1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Backend Software Developer Engineer`**
 
-Here are some ideas to get you started:
+I'm a software engineer with over 4 years of experience, I have experience working in Backend and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+During my Software Engineering career, I have worked with multiple programming languages, libraries, frameworks and technologies such as Java, SpringBoot, Python, C++, C, Docker. 
+
+My interests range from distributed systems, microservices, big data to AI, and I'm always eager to explore new technological horizons.
+
+All projects in this repo are built from the ground up. Solving some problems that I face in my daily life or just to practice
+other technologies that caught my interest.
+
+---
+###Language And Tools
+- Java
+- C++
+- Html
+- CSS
+- Python
+- Javascript
+- React
+- Git
+- Linux
+- Docker
+
+<br/>
+### Stats
+![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=marcoag1996&show_icons=true&theme=nightowl)
+
+
