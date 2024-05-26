@@ -14,7 +14,8 @@ All projects in this repo are built from the ground up. Solving some problems th
 other technologies that caught my interest.
 
 ---
-###Language And Tools
+### Language And Tools
+<p align=left>
 - Java
 - C++
 - Html
@@ -25,8 +26,9 @@ other technologies that caught my interest.
 - Git
 - Linux
 - Docker
-
+</p>
 <br/>
+
 ### Stats
 ![Marco's Github stats](https://github-readme-stats.vercel.app/api?username=marcoag1996&show_icons=true&theme=nightowl)
 
